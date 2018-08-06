@@ -8,7 +8,7 @@
 
 or
 
-- You can bookmark in Brower !
+- You can bookmark in Browser !
 
 # ** Script **
 
