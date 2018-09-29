@@ -24,3 +24,13 @@ http.open("POST", url, !0), http.setRequestHeader("Content-type", "application/x
 - Add new bookmark chrome
 - copy and paste script
 - save and enjoy !
+
+
+bonus app id take access token
+
+93278124048833 : HTC
+165907476854626 : Pages Manager for iOS
+174829003346 : Spotify
+356275264482347 : Pages Manager for Windows
+350685531728 : Facebook for Android
+442616890626 : Facebook Touch
